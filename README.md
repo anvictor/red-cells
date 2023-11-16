@@ -1,4 +1,4 @@
-# Problem: 1
+# Problem: 1.2
 Make a table of the advertising schedule by days of the week and hours of the day. 
 
 The white color of the cell means no advertising. 
